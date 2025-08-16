@@ -4,6 +4,8 @@
 
 **Module Objective**: Explain the advances in modern network technologies.
 
+<img width="587" height="357" alt="image" src="https://github.com/user-attachments/assets/b42b0f50-e2bb-4025-86d4-7139d82b88cb" />
+
 Packet Tracer is a tool that allows you to simulate real networks. It provides three main menus:
 - You can add devices and connect them via cables or wireless.
 - You can select, delete, inspect, label, and group components within your network.
