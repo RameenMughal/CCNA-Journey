@@ -2,9 +2,13 @@
 
 ## 1.0. Introduction
 
+### 1.0.2 What will I learn to do in this module?
+
 **Module Objective**: Explain the advances in modern network technologies.
 
 <img width="587" height="357" alt="image" src="https://github.com/user-attachments/assets/b42b0f50-e2bb-4025-86d4-7139d82b88cb" />
+
+### 1.0.4 Video - Getting Started in Cisco Packet Tracer
 
 Packet Tracer is a tool that allows you to simulate real networks. It provides three main menus:
 - You can add devices and connect them via cables or wireless.
