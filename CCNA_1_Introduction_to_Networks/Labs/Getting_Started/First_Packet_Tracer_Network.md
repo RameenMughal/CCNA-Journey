@@ -1,6 +1,7 @@
 # Getting Started in Cisco Packet Tracer 
 
-This practical is taken from **1.0.4**
+This practical is taken from **1.0.4 Video - Getting Started in Cisco Packet Tracer**
+
 After exploring Cisco Packet Tracer, then creating first Cisco Packet Tracer Network
 
 Building network in the Logical Topology.
