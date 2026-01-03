@@ -223,9 +223,25 @@ In short: LAN = small area, fast connection; WAN = large area, slower connection
 **Question**: The internet in this Packet Tracer network is overly simplified and does not represent the structure and 
 form of the real internet. Briefly describe the internet.
 
-<img width="261" height="233" alt="image" src="https://github.com/user-attachments/assets/ae846f8c-c856-4a52-a8ed-1bc64ac7ac13" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/ae846f8c-c856-4a52-a8ed-1bc64ac7ac13" />
 
+**Answer**: The Internet is a huge global network of networks. It connects millions of smaller networks (like home, school, company, and ISP networks) all over the world.
 
+There is no single owner or central control. Different ISPs (Internet Service Providers) connect to each other using high-speed links and routers.
+
+Data moves across the Internet in packets, choosing the best path to reach its destination using standard rules called protocols (like TCP/IP).
+
+---
+
+**Question**: What are some of the common ways a home user connects to the internet?
+
+**Answer**: Common ways a home user connects to the Internet (easy English):
+- Cable Internet – Uses cable TV lines
+- DSL – Uses telephone lines
+- Fiber – Very fast internet using fiber-optic cables
+- Mobile Data (4G/5G) – Internet through a SIM card on phone or hotspot
+- Satellite Internet – Uses satellites (common in remote areas)
+- Wi-Fi – Connects devices wirelessly through a home router
 
 
 
