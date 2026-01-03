@@ -237,20 +237,23 @@ Data moves across the Internet in packets, choosing the best path to reach its d
 
 **Answer**: Common ways a home user connects to the Internet (easy English):
 - Cable Internet – Uses cable TV lines
-- DSL – Uses telephone lines
+- DSL (Digital Subscriber Line) – Uses telephone lines
 - Fiber – Very fast internet using fiber-optic cables
 - Mobile Data (4G/5G) – Internet through a SIM card on phone or hotspot
 - Satellite Internet – Uses satellites (common in remote areas)
 - Wi-Fi – Connects devices wirelessly through a home router
 
+---
 
+**Question**: What are some common methods that businesses use to connect to the internet in your area?
 
-​
-​
-
-
-
-
+**Answer**: Common ways businesses connect to the Internet (easy English):
+- Fiber-optic connection – Very fast and reliable, used by offices and companies
+- Dedicated leased line – Private and stable internet link for businesses
+- DSL – Uses phone lines (for small offices)
+- Cable Internet – Shared connection, cheaper option
+- Wireless ISP (radio link) – Used where fiber is not available
+- 4G / 5G backup – Used as a backup if main internet fails
 
 
 
