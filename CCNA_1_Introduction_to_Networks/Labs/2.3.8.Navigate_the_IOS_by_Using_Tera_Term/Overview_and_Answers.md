@@ -71,13 +71,67 @@ In this part, you are introduced to the user and privileged EXEC modes. You will
 #### Step 1: Display the switch IOS image version.
 
 While you are in the user EXEC mode, use the show version command to display the IOS version for the switch.
+
+```
 Switch> show version
+```
 
 **Question**: Which IOS image and version is currently in use by the switch?
 
-**Answer**: 
+**Answer**: C2960 Software (C2960-LANBASE-M) and Version 12.2(25)FX
 
 <img width="489" height="367" alt="image" src="https://github.com/user-attachments/assets/d46e3755-563b-4ba9-af86-553bb881f0e5" />
+
+---
+
+#### Step 2: Configure the clock.
+
+<img width="208" height="146" alt="image" src="https://github.com/user-attachments/assets/caaddd21-713e-4028-a113-d6a78bc2d3f5" />
+
+### Part 3: Access a Cisco Router Using a Mini-USB Console Cable
+
+In this part, you will install a 4321 router and connect a laptop to the console using a mini-USB cable. 
+
+#### Step 1: Install and investigate a 4321 router.
+
+1. Locate the 4321 router on the Shelf. Click and drag the 4321 router to the Rack.
+
+<img width="131" height="61" alt="image" src="https://github.com/user-attachments/assets/1a5b26ed-f8da-4f11-9c56-618a7b848652" />
+
+2. Right click the 4321 router and select Inspect Front. Use the zoom tool to get a better view. Notice that there is a power switch on the left. Click it to turn on the router. Also notice the other ports that are available. There is an RJ-45 and a mini-USB port for console connectivity.
+
+<img width="616" height="98" alt="image" src="https://github.com/user-attachments/assets/595192ce-2fea-431b-b1ad-82b81e68e6de" />
+
+3. Click the X to close the Inspect Front view.
+
+#### Step 2: Install and investigate the Laptop.
+
+1. Click and drag the Laptop to the Table.
+
+<img width="499" height="200" alt="image" src="https://github.com/user-attachments/assets/08c560ec-0c0f-4781-9ff5-83cae665e4eb" />
+
+2. Right click the Laptop and select Inspect Front. Click the power button on the far left to turn the laptop on. You should now see a green light. Notice that there are two RJ-45 ports: one for RS 232 and another for Fast Ethernet. There are also two USB ports. You can use either of these to connect to the mini-USB port on the 4321 router.
+
+<img width="374" height="274" alt="image" src="https://github.com/user-attachments/assets/855e4baa-7f3c-4de8-9ba6-ca5ecb89b242" />
+
+3. Click the X to close the Inspect Front view.
+
+#### Step 3: Connect the router and laptop using a mini-USB cable.
+
+<img width="348" height="278" alt="image" src="https://github.com/user-attachments/assets/5c0b93cc-705d-4198-94f0-993f3a0b4ed7" />
+
+#### Step 4: Configure the Packet Tracer Terminal program to establish a console session with the switch.
+
+1. Click Laptop > Desktop tab > Terminal. The Terminal default settings match the console port settings for communications with the Cisco IOS on the switch.
+
+<img width="527" height="199" alt="image" src="https://github.com/user-attachments/assets/52cecde7-4d90-44e0-b3ce-42a38d5ceb60" />
+
+2. After the router has completed its startup process, the following message is displayed. Enter n to continue.
+
+3. Press the ENTER key to get to the User EXEC mode router prompt.
+
+<img width="386" height="206" alt="image" src="https://github.com/user-attachments/assets/9749cea1-2eea-416f-aabc-5bcd1c1aa109" />
+
 
 
 
