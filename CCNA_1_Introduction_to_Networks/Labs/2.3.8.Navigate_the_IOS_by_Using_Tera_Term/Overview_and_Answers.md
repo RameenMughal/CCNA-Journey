@@ -132,17 +132,42 @@ In this part, you will install a 4321 router and connect a laptop to the console
 
 <img width="386" height="206" alt="image" src="https://github.com/user-attachments/assets/9749cea1-2eea-416f-aabc-5bcd1c1aa109" />
 
+---
 
+### Reflection Question
 
+**Question**: How do you prevent unauthorized personnel from accessing the Cisco device through the console port?
 
+**Answer**: You can prevent unauthorized access by:
 
+- Configure a password or local user authentication on the console line
+- Encrypt passwords to protect them from being viewed
+- Physically secure the device to prevent direct console access
 
+**Note**: Local user authentication means the Cisco device checks the username and password stored on itself to verify who is accessing it. Usernames and passwords are created locally on the device and does not need an external server.
 
+---
 
+**Question**: What are the advantages and disadvantages of using the serial console connection compared to the USB console connection to a Cisco router or switch?
 
+**Answer**: Serial Console Connection vs USB Console Connection:
 
+**Serial Console Connection**: A serial console connection provides out-of-band, text-based command-line access (CLI) to network devices and servers
+- **Advantages**
+  - Very reliable and widely supported
+  - Works with older and newer Cisco devices
+  - No driver installation usually required
+- **Disadvantages**
+  - Modern laptops lack serial ports
+  - Requires USB-to-serial adapter
+  - Slower and less convenient
 
-
-
-
-
+**USB Console Connection**: A USB console connection is a management connection that allows you to configure and access a Cisco router or switch using a USB cable instead of a serial cable.
+- **Advantages**
+  - Easy and fast to connect
+  - Commonly available on modern laptops
+  - No extra adapter needed
+- **Disadvantages**
+  - Requires USB drivers
+  - May not work on older Cisco devices
+  - Can be less reliable on some systems
